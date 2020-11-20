@@ -30,6 +30,7 @@ echo "<div>$varB</div>\n";
 $var = $_POST['varB'];
 echo "<div>$varB</div>\n";
 
+
 //
 /// Forget to terminate user input after a redirect
 //
