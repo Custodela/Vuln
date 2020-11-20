@@ -18,8 +18,6 @@ $var = $_POST['varB'];
 echo "<div>$varB</div>\n";
 //
 /// 2nd XSS example
-
-
 //
 $var = $_POST['varB'];
 echo "<div>$varB</div>\n";
